@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 36EB-D58E
+
+ Directory of C:\Users\manas\OneDrive\Desktop\my project
+
+11-03-2025  11:50    <DIR>          .
+11-03-2025  11:45    <DIR>          ..
+11-03-2025  11:50                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  406,310,207,488 bytes free
